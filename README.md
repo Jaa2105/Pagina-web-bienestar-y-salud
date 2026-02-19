@@ -39,6 +39,7 @@ Or simply drag and drop the index.html file into your browser.
 - Enjoy the tips to improve your physical and mental well-being.
 
 ## Project Structure 📂
+
 📂 wellness-fitness
  ├── 📂 micarpeta
  │   ├── menu.png
@@ -49,10 +50,11 @@ Or simply drag and drop the index.html file into your browser.
  │   ├── descanso.html
  ├── index.html
  ├── README.md
+ 
 ## Technologies Used 🛠️
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
 ## Contributing 🤝
 If you wish to contribute, follow these steps:
