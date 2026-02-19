@@ -1,43 +1,43 @@
-# Bienestar y Fitness 🏋️‍♂️
+# Wellness & Fitness 🏋️‍♂️
 
-## Descripción 📖
-Este proyecto es una página web interactiva que proporciona información y consejos sobre bienestar físico, alimentación saludable, descanso y ejercicios recomendados. Incluye un menú de navegación con secciones dedicadas a cada tema, además de enlaces a páginas adicionales con información más detallada.
+## Description 📖
+This project is an interactive website that provides information and tips on physical well-being, healthy eating, rest, and recommended exercises. It includes a navigation menu with sections dedicated to each topic, along with links to additional pages for more detailed information.
 
+## Key Features 🌟
+✅ Responsive and attractive design.  
+✅ Useful information on healthy habits.  
+✅ Interactive navigation menu.  
+✅ Organized sections for easy access to information.  
+✅ Tips on nutrition, exercise, and rest.  
 
-## Características principales 🌟
-✅ Diseño responsivo y atractivo.  
-✅ Información útil sobre hábitos saludables.  
-✅ Menú de navegación interactivo.  
-✅ Secciones organizadas para fácil acceso a la información.  
-✅ Consejos sobre alimentación, ejercicio y descanso.  
+## Installation 🚀
+To use this page on your local system, follow these steps:
 
-## Instalación 🚀
-Para utilizar esta página en tu sistema local, sigue estos pasos:
-
-1. Clona este repositorio:
+1. Clone this repository:
    ```bash
-   git clone https://github.com/tuusuario/bienestar-fitness.git
-   ```
-2. Accede al directorio del proyecto:
-   ```bash
-   cd bienestar-fitness
-   ```
-3. Abre el archivo principal en tu navegador:
-   ```bash
-   open index.html  # MacOS
-   start index.html # Windows
-   ```
-   O simplemente arrastra y suelta el archivo `index.html` en tu navegador.
+   git clone [https://github.com/yourusername/wellness-fitness.git](https://github.com/yourusername/wellness-fitness.git)
+Navigate to the project directory:
 
-## Uso 📌
-1. Abre la página en cualquier navegador moderno.
-2. Explora el menú de navegación para acceder a diferentes secciones.
-3. Haz clic en los enlaces para obtener más detalles sobre cada tema.
-4. Disfruta de los consejos para mejorar tu bienestar físico y mental.
+Bash
+cd wellness-fitness
+Open the main file in your browser:
 
-## Estructura del Proyecto 📂
-```
-📂 bienestar-fitness
+Bash
+open index.html  # MacOS
+start index.html # Windows
+Or simply drag and drop the index.html file into your browser.
+
+## Usage 📌
+Open the page in any modern browser.
+
+Explore the navigation menu to access different sections.
+
+Click on the links to get more details about each topic.
+
+Enjoy the tips to improve your physical and mental well-being.
+
+## Project Structure 📂
+📂 wellness-fitness
  ├── 📂 micarpeta
  │   ├── menu.png
  │   ├── bienestarysalud.png
@@ -47,23 +47,26 @@ Para utilizar esta página en tu sistema local, sigue estos pasos:
  │   ├── descanso.html
  ├── index.html
  ├── README.md
-```
+## Technologies Used 🛠️
+HTML5
 
-## Tecnologías utilizadas 🛠️
-- HTML5
-- CSS3
+CSS3
 
-## Contribución 🤝
-Si deseas contribuir, sigue estos pasos:
-1. Haz un fork del repositorio.
-2. Crea una rama (`git checkout -b nueva-funcionalidad`).
-3. Realiza tus cambios y haz un commit (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Sube los cambios a tu fork (`git push origin nueva-funcionalidad`).
-5. Abre un Pull Request en este repositorio.
+## Contributing 🤝
+If you wish to contribute, follow these steps:
 
-## Licencia 📜
-Este proyecto está bajo la licencia MIT.
+1. Fork the repository.
 
----
-¡Esperamos que esta página te ayude a mejorar tu bienestar y salud! 💪😃
+2. Create a new branch (git checkout -b new-feature).
+
+3. Make your changes and commit them (git commit -m 'Add new feature').
+
+4. Push the changes to your fork (git push origin new-feature).
+
+5. Open a Pull Request in this repository.
+
+## License 📜
+This project is licensed under the MIT License.
+
+We hope this page helps you improve your well-being and health! 💪😃
 
