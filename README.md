@@ -16,15 +16,17 @@ To use this page on your local system, follow these steps:
 1. Clone this repository:
    ```bash
    git clone [https://github.com/yourusername/wellness-fitness.git](https://github.com/yourusername/wellness-fitness.git)
+   
 Navigate to the project directory:
 
-Bash
 cd wellness-fitness
+
 Open the main file in your browser:
 
-Bash
 open index.html  # MacOS
+
 start index.html # Windows
+
 Or simply drag and drop the index.html file into your browser.
 
 ## Usage 📌
