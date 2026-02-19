@@ -30,13 +30,13 @@ start index.html # Windows
 Or simply drag and drop the index.html file into your browser.
 
 ## Usage 📌
-Open the page in any modern browser.
+- Open the page in any modern browser.
 
-Explore the navigation menu to access different sections.
+- Explore the navigation menu to access different sections.
 
-Click on the links to get more details about each topic.
+- Click on the links to get more details about each topic.
 
-Enjoy the tips to improve your physical and mental well-being.
+- Enjoy the tips to improve your physical and mental well-being.
 
 ## Project Structure 📂
 📂 wellness-fitness
